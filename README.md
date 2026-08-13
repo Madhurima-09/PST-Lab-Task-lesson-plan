@@ -7,7 +7,7 @@ S4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/submissio
 S4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2105035889/)
 S5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105046735/)
 S5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2105060309/)
-S6.1[click here]
-S6.2[click here]
-S7.1[click here]
-S7.2[click here]
+S6.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2105070599/)
+S6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2105078205/)
+S7.1[click here](https://leetcode.com/problems/remove-element/submissions/2105084648/)
+S7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2105092574/)
