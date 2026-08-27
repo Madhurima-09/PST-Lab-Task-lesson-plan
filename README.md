@@ -11,3 +11,12 @@ S6.1[click here](https://leetcode.com/problems/build-array-from-permutation/subm
 S6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2105078205/)
 S7.1[click here](https://leetcode.com/problems/remove-element/submissions/2105084648/)
 S7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2105092574/)
+S8.1[click here].(https://leetcode.com/problems/maximum-subarray/submissions/2121542770/)
+S8.2[click.here].(https://leetcode.com/problems/find-the-highest-altitude/submissions/2121545973/)
+S9.1[click.here].(https://leetcode.com/problems/group-anagrams/submissions/2121547826/)
+S9.2[click.here].(https://leetcode.com/problems/top-k-frequent-elements/submissions/2121550132/)
+S10.1[click.here].(
+S10.2[click.here].(
+S11.1[click.here].(
+S11.2[click.here].(
+S12.1[click.here].(
