@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0053-maximum-subarray) |
 | [0217-contains-duplicate](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0724-find-pivot-index) |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0867-transpose-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
