@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
