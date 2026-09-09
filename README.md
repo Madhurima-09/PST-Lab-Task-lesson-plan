@@ -1,26 +1,3 @@
-s1.1[click here](https://www.hackerrank.com/challenges/java-lambda-expressions/problem)
-s2.1[click here](https://www.hackerrank.com/challenges/java-sort/problem)
-s2.2[click here](https://leetcode.com/problems/sort-array-by-parity/submissions/2105032349/)
-S3.1[click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem)
-S3.2[click here](https://www.hackerrank.com/challenges/java-comparator/problem)
-S4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2105034046/)
-S4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2105035889/)
-S5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2105046735/)
-S5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2105060309/)
-S6.1[click here](https://leetcode.com/problems/build-array-from-permutation/submissions/2105070599/)
-S6.2[click here](https://leetcode.com/problems/shuffle-the-array/submissions/2105078205/)
-S7.1[click here](https://leetcode.com/problems/remove-element/submissions/2105084648/)
-S7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2105092574/)
-S8.1[click here].(https://leetcode.com/problems/maximum-subarray/submissions/2121542770/)
-S8.2[click.here].(https://leetcode.com/problems/find-the-highest-altitude/submissions/2121545973/)
-S9.1[click.here].(https://leetcode.com/problems/group-anagrams/submissions/2121547826/)
-S9.2[click.here].(https://leetcode.com/problems/top-k-frequent-elements/submissions/2121550132/)
-S10.1[click.here].(
-S10.2[click.here].(
-S11.1[click.here].(
-S11.2[click.here].(
-S12.1[click.here].(
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
