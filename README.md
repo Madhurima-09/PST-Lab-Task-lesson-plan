@@ -9,6 +9,7 @@
 | [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0867-transpose-matrix) |
+| [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1314-matrix-block-sum) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -52,6 +54,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0217-contains-duplicate) |
+| [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
 ## Simulation
 |  |
 | ------- |
