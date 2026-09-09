@@ -44,6 +44,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
 ## Simulation
 |  |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0438-find-all-anagrams-in-a-string) |
 ## String Matching
 |  |
 | ------- |
