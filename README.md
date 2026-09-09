@@ -20,3 +20,15 @@ S10.2[click.here].(
 S11.1[click.here].(
 S11.2[click.here].(
 S12.1[click.here].(
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
+<!---LeetCode Topics End-->
