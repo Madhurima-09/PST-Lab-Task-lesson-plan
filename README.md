@@ -5,6 +5,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
