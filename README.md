@@ -31,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -75,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -111,4 +114,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
