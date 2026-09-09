@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
