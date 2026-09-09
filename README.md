@@ -13,6 +13,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1314-matrix-block-sum) |
+| [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -44,6 +45,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
 | [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
+| [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
