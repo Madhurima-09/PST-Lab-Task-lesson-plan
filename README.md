@@ -27,8 +27,13 @@ S12.1[click.here].(
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
