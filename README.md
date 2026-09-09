@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -44,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0796-rotate-string) |
@@ -91,15 +93,22 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
