@@ -19,6 +19,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1314-matrix-block-sum) |
 | [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
