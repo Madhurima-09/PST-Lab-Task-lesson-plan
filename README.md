@@ -174,4 +174,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0179-largest-number) |
+## Math
+|  |
+| ------- |
+| [1185-day-of-the-week](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
