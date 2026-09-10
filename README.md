@@ -59,6 +59,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0890-find-and-replace-pattern) |
+| [1154-day-of-the-year](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1154-day-of-the-year) |
 | [1396-design-underground-system](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -177,5 +178,6 @@
 ## Math
 |  |
 | ------- |
+| [1154-day-of-the-year](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1154-day-of-the-year) |
 | [1185-day-of-the-week](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1185-day-of-the-week) |
 <!---LeetCode Topics End-->
