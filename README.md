@@ -24,6 +24,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1732-find-the-highest-altitude) |
+| [1920-build-array-from-permutation](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1920-build-array-from-permutation) |
 | [2418-sort-the-people](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
@@ -99,6 +100,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1603-design-parking-system) |
+| [1920-build-array-from-permutation](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
