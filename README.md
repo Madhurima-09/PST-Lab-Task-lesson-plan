@@ -21,6 +21,7 @@
 | [1472-design-browser-history](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1732-find-the-highest-altitude) |
 | [2418-sort-the-people](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
@@ -28,6 +29,7 @@
 | [0724-find-pivot-index](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0724-find-pivot-index) |
 | [1314-matrix-block-sum](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1732-find-the-highest-altitude) |
 ## Matrix
 |  |
 | ------- |
