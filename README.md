@@ -60,6 +60,7 @@
 ## Counting
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1603-design-parking-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Madhurima-09/PST-Lab-Task-lesson-plan/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
